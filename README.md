@@ -1,4 +1,3 @@
-# Bing Wallpaper Donwloader #
 ## Description:
 This downloader downloads wallpaper from <https://cn.bing.com/>. 
 #### Note:   
