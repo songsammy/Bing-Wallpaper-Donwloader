@@ -17,5 +17,5 @@ Clone it & enjoy.
 	Donwload_Bing_Wallpaper.py
 
 ## Downloads:
-[Download exe file](Donwload_Bing_Wallpaper.exe "Donwload_Bing_Wallpaper.exe")  
+[Download exe file](https://github.com/songsammy/Bing-Wallpaper-Donwloader/releases "Releases")  
 [View Code](https://github.com/songsammy/Bing-Wallpaper-Donwloader/blob/master/Donwload_Bing_Wallpaper.py "View Code")
